@@ -201,6 +201,5 @@ Add the names of the project team members here.
 
 Add the applicable project license here, if required.
 
----
 
 **MetricMind – Turning Business Questions into Actionable Insights.**
