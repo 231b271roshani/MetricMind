@@ -1,0 +1,19 @@
+
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Node.js / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local backups (may contain credentials)
+backend/main_backup.py
+backend/main_week2_backup.py
