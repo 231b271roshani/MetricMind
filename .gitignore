@@ -4,3 +4,6 @@ frontend/node_modules/
 frontend/.next/
 .env
 *.pyc
+
+# Local backup files
+backend/main_week2_backup.py
